@@ -2,7 +2,7 @@
 
 Tudo bem? me chamo Melissa!
 
-- Estudo no Alura
+- Estudo no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para me organizar melhor e poder compartilhar os meus projetos desenvolvidos
 
